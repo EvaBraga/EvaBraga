@@ -36,7 +36,7 @@ Here I keep track of what I'm building and studying.
 
 ## 🚧 Featured project
 
-### [SupermarketPriceTracker](https://github.com/EvaBraga/SupermarketPriceTracker) · in development since August 2026
+### [SupermarketPriceTracker](https://github.com/EvaBraga/supermarket-price-tracker) · in development since August 2026
 
 A Java system to record and compare grocery prices across supermarkets.
 
